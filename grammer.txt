@@ -1,0 +1,4 @@
+$sub = ma | malai | timi | hami | sabai | uni | uu | uha | tapai;
+$verb = khanchu | janchu | lagauchu | garchu | manparchha;		
+$obj = vaat | luga | kaam | uta | nepal | gai | bakhra | gaida;
+( SENT-START ( $sub $obj $verb ) SENT-END )
